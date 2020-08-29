@@ -1,0 +1,9 @@
+#backButton{
+  width: 8rem;
+}
+#addButton{
+  width: 10rem;
+}
+.editingButtons button{
+  width: 10rem;
+}
